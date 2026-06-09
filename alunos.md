@@ -12,5 +12,5 @@ Exemplo:
 
 Lista:
 
-| seu-nome | RM: seu-rm | sua-branch |
+| nycolle | RM: 3005 | feature/nycolle |
 
